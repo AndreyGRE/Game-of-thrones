@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Game-of-thrones/static/css/main.d7a6041e.css",
+    "main.js": "/Game-of-thrones/static/js/main.86371be8.js",
+    "static/media/error.jpg": "/Game-of-thrones/static/media/error.912deaa867e8e2e8727e.jpg",
+    "index.html": "/Game-of-thrones/index.html",
+    "main.d7a6041e.css.map": "/Game-of-thrones/static/css/main.d7a6041e.css.map",
+    "main.86371be8.js.map": "/Game-of-thrones/static/js/main.86371be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7a6041e.css",
+    "static/js/main.86371be8.js"
+  ]
+}
