@@ -66,16 +66,10 @@ componentDidCatch(){
                     <Route path='/books/:id' 
                            element={<BooksItem />}
 
-                            // element={({match})=> console.log(match)}
-                            //   element={({match})=>{ const {id} = match.params;
-                            //   return <BooksItem booksId={id}/>}}
-                            // render={props =>({match})=>{ const {id} = match.params;
-                            //   return <BooksItem booksId={id}/>}}
+                            
                             />   
                 </Routes> 
-                    {/* <CharacterPage/>
-                    <BooksPage/>
-                    <HousesPage/> */}
+                    
                 </Container> 
             </div>
          </Router> 
